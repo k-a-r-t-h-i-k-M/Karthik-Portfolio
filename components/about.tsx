@@ -51,7 +51,7 @@ export default function About() {
               <Image
                 src="/Pic.jpg?height=600&width=600"
                 alt="Profile"
-                width={600}
+                width={700}
                 height={600}
                 className="object-cover"
               />
