@@ -25,7 +25,7 @@ export default function Projects() {
       image: "1.jpeg?height=600&width=600",
       tags: ["Python", "Tensor Flow", "Keras", "CNN"],
       category: "Web",
-      github: "https://github.com",
+      github: "https://github.com/k-a-r-t-h-i-k-M",
     },
     {
       title: "Traffic light detection",
@@ -34,7 +34,7 @@ export default function Projects() {
       image: "2.jpeg?height=600&width=600",
       tags: ["HSV", "Kmeans", "OpenCV", "Colab"],
       category: "Design",
-      github: "https://github.com",
+      github: "https://github.com/k-a-r-t-h-i-k-M",
     },
     {
       title: "Portfolio Website",
@@ -42,7 +42,7 @@ export default function Projects() {
       image: "3.jpeg?height=600&width=800",
       tags: ["Mobile", "React Native", "Firebase"],
       category: "Mobile",
-      github: "https://github.com",
+      github: "https://github.com/k-a-r-t-h-i-k-M",
     },
   ]
 
@@ -156,7 +156,7 @@ export default function Projects() {
           className="mt-12 text-center"
         >
           <Button asChild variant="outline" className="rounded-full">
-            <Link href="https://github.com" target="_blank">
+            <Link href="https://github.com/k-a-r-t-h-i-k-M" target="_blank">
               View More on GitHub
             </Link>
           </Button>
