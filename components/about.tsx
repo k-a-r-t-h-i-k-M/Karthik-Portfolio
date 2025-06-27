@@ -49,7 +49,7 @@ export default function About() {
           >
             <div className="relative aspect-square overflow-hidden rounded-2xl border-8 border-background shadow-xl">
               <Image
-                src="/Pic 2.jpg?height=600&width=600"
+                src="/Picture.jpg?height=600&width=600"
                 alt="Profile"
                 width={700}
                 height={600}
